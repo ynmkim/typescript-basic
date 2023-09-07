@@ -1,0 +1,22 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynmkim/typescript-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ynmkim/typescript-basic/issues"
+  },
+  "homepage": "https://github.com/ynmkim/typescript-basic#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
